@@ -28,3 +28,8 @@ Kozlowski, A. C., Taddy, M., & Evans, J. A. (2019). The Geometry of Culture: Ana
 [Interpretable Word Sense Representations via Definition Generation: The Case of Semantic Change Analysis](https://aclanthology.org/2023.acl-long.176) (Giulianelli et al., ACL 2023)
 
 * generated defenitions also have a quantitative vector representation.
+
+
+### Unicategorized
+
+[A Unified Feature Representation for Lexical Connotations](https://aclanthology.org/2021.eacl-main.184) (Allaway & McKeown, EACL 2021)

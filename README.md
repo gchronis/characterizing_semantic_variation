@@ -1,0 +1,2 @@
+# characterizing_semantic_variation
+ressearch on characterizing semantic variation
